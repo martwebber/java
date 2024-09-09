@@ -54,7 +54,7 @@ C
 
         System.out.println(Arrays.toString(myIntArray1));
 
-        String[] myStrArray = {"Mart","Ben","Carol"};
+        String[] myStrArray = {"Mark","Ben","Carol"};
         System.out.println(Arrays.toString(myStrArray));
         String[] names = new String[9];
         System.out.println(Arrays.toString(names));
